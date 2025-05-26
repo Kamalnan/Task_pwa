@@ -1,0 +1,28 @@
+/* client/css/style.css */
+body {
+    font-family: sans-serif;
+    margin: 2rem;
+    background: #f4f4f4;
+  }
+  
+  form {
+    margin-bottom: 2rem;
+  }
+  
+  input, textarea {
+    display: block;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    width: 100%;
+  }
+  
+  button {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
+  ul#task-list {
+    list-style: none;
+    padding: 0;
+  }
+  
